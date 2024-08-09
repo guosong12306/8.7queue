@@ -1,0 +1,8 @@
+[
+{
+  "directory": "E:/living/competition/robocon/8.7/8.7queue/build",
+  "command": "E:\\MinGW\\bin\\gcc.exe -IE:/living/competition/robocon/8.7/8.7queue/. -g -o CMakeFiles\\queue.dir\\src\\queue.obj -c E:\\living\\competition\\robocon\\8.7\\8.7queue\\src\\queue.c",
+  "file": "E:\\living\\competition\\robocon\\8.7\\8.7queue\\src\\queue.c",
+  "output": "CMakeFiles\\queue.dir\\src\\queue.obj"
+}
+]

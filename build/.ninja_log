@@ -1,0 +1,9 @@
+# ninja log v6
+1	152	7447890993252750	CMakeFiles/queue.dir/src/queue.obj	4b4f666298e06ce
+153	309	7447890994767682	queue.exe	89fa38fc00cbbf27
+2	161	7447891379438387	CMakeFiles/queue.dir/src/queue.obj	4b4f666298e06ce
+162	312	7447891381033051	queue.exe	89fa38fc00cbbf27
+1	117	7447892526049260	CMakeFiles/queue.dir/src/queue.obj	4b4f666298e06ce
+118	240	7447892527207872	queue.exe	89fa38fc00cbbf27
+3	119	7447911099525770	CMakeFiles/queue.dir/src/queue.obj	4b4f666298e06ce
+119	250	7447911100684830	queue.exe	89fa38fc00cbbf27
